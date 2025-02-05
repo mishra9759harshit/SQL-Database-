@@ -1,0 +1,4 @@
+kivy
+kivymd
+sqlite3
+paramiko
